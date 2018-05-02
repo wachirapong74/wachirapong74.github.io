@@ -5,3 +5,67 @@
 .iconbox .progress {
 	margin-bottom: 10px;
 }
+
+.label {
+	font-size: 10px;
+}
+
+.label-angular {
+	background: #c30130;
+	color: #fff
+}
+
+.label-ionic {
+	background: #4b8af9;
+	color: #fff
+}
+
+.label-php {
+	background: #6181b6;
+	color: #010101;
+}
+
+.label-php {
+	background: #6181b6;
+	color: #010101;
+}
+
+.label-mysql {
+	background: #3866af;
+	color: #fff;
+}
+
+.label-laravel {
+	background: #f35047;
+	color: #fff;
+}
+
+.label-ci {
+	background: #ee4425;
+	color: #fff;
+}
+
+.label-html {
+	background: #e54e28;
+	color: #fff;
+}
+
+.label-css {
+	background: #1859a7;
+	color: #fff;
+}
+
+.label-react {
+	background: #62dafb;
+	color: #fff;
+}
+
+.label-android {
+	background: #4b7d2f;
+	color: #fff;
+}
+
+.label-ios {
+	background: #a0a0a0;
+	color: #fff;
+}
